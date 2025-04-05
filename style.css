@@ -101,7 +101,6 @@ p {
   padding: 10px 15px;
   border-radius: 5px;
   margin-top: 0;
-  animation: blink 15s infinite;
   font-weight: bold;
 }
 
